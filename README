@@ -1,0 +1,6 @@
+<html>
+<script src="/js/jspd-a1.0.js"></script>
+</html>
+<body>
+<a href="javascript:$jspd.start();">run</a>
+</body>
