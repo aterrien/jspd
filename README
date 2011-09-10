@@ -1,6 +1,17 @@
+
+jspd package :
+
+- jspd.js : loader
+- jspd-core.js : core library
+- jspd-externals.js : externals (add your externals here)
+
+=========================================================
+HTML start
+=========================================================
 <html>
 <script src="/js/jspd-a1.0.js"></script>
 </html>
 <body>
 <a href="javascript:$jspd.start();">run</a>
 </body>
+=========================================================
